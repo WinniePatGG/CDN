@@ -12,6 +12,9 @@ repositories {
 }
 
 dependencies {
-    implementation "de.craftsblock:craftscore:3.8.5"
-    implementation "de.craftsblock:craftsnet:3.4.3-pre4"
+    implementation "de.craftsblock:craftscore:3.8.3-SNAPSHOT"
+    implementation "de.craftsblock:craftsnet:3.3.3-pre2"
+
+    implementation "org.sejda.imageio:webp-imageio:0.1.6"
+    implementation "net.coobird:thumbnailator:0.4.20"
 }
