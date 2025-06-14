@@ -1,4 +1,8 @@
 {
   "name": "CDN",
-  "main": "de.winniepat.cdn.CDN"
+  "main": "de.winniepat.cdn.CDN",
+  "dependencies": [
+    "org.sejda.imageio:webp-imageio:0.1.6",
+    "net.coobird:thumbnailator:0.4.20"
+  ]
 }
